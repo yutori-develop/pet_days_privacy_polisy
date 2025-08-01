@@ -1,1 +1,2 @@
 # simple_pet_note_privacy_policy
+シンプルペット手帳のプライバシーポリシーです。
