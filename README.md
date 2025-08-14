@@ -1,2 +1,2 @@
-# pet_days_privacy_policy
-Pet Daysのプライバシーポリシーです。
+# simple_pet_record_book_privacy_policy
+シンプルペット手帳のプライバシーポリシーです。
